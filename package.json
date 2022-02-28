@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "version":"v17.3.0",
+    "body-parser": "^1.19.2",
+    "start":"node src/app.js",
+    "ejs": "^3.1.6",
+    "deploy":"gh-pages -d build",
+    "express": "^4.17.3",
+    "gh-pages": "^3.2.3",
+    "git": "^0.1.5"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
